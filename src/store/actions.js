@@ -1,0 +1,7 @@
+export const FETCH_USERS = 'FETCH_USERS';
+export const FETCH_TASKS = 'FETCH_TASKS';
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const FETCH_ALBUMS = 'FETCH_ALBUMS';
+export const FETCH_COMMENTS = 'FETCH_COMMENTS';
+export const GET_CURRENT_USER = 'GET_CURRENT_USER';
+export const GET_CURRENT_POST = 'GET_CURRENT_POST';
